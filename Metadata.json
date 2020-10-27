@@ -1,0 +1,20 @@
+{
+    "Author": "Siebert Timmermans",
+    "ContentSize": 6692,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/scheduled-vm-resizes-with-resource-groups/master/VMScheduledScaler.ps1",
+    "DownloadCount": 2783,
+    "Id": "Scheduled-VM-Resizes-with-2d74c45b",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 79,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-6T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Through this Automation script you can schedule a specific Resource Group Azure VM at specific times for resizing. By resizing Group VMs during low traffic hours, the costs are reduced.Step-by-step guide: https://siebertt.github.io/Azure-ResourcegroupVM-Rescaling-Scheduler/",
+    "Title": "Scheduled VM Resizes with Resource Groups",
+    "UpdatedDate": "2017-5-8T00:00:00",
+    "Url": "https://github.com/azureautomation/scheduled-vm-resizes-with-resource-groups",
+    "UserTags": "Azure, scheduled jobs, Size"
+}
